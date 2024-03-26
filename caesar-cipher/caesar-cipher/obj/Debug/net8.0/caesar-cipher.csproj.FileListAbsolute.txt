@@ -1,0 +1,15 @@
+/Users/hcustodio/Projects/c#-arch/c-that-is-sharp/caesar-cipher/caesar-cipher/bin/Debug/net8.0/caesar-cipher
+/Users/hcustodio/Projects/c#-arch/c-that-is-sharp/caesar-cipher/caesar-cipher/bin/Debug/net8.0/caesar-cipher.deps.json
+/Users/hcustodio/Projects/c#-arch/c-that-is-sharp/caesar-cipher/caesar-cipher/bin/Debug/net8.0/caesar-cipher.runtimeconfig.json
+/Users/hcustodio/Projects/c#-arch/c-that-is-sharp/caesar-cipher/caesar-cipher/bin/Debug/net8.0/caesar-cipher.dll
+/Users/hcustodio/Projects/c#-arch/c-that-is-sharp/caesar-cipher/caesar-cipher/bin/Debug/net8.0/caesar-cipher.pdb
+/Users/hcustodio/Projects/c#-arch/c-that-is-sharp/caesar-cipher/caesar-cipher/obj/Debug/net8.0/caesar-cipher.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hcustodio/Projects/c#-arch/c-that-is-sharp/caesar-cipher/caesar-cipher/obj/Debug/net8.0/caesar-cipher.AssemblyInfoInputs.cache
+/Users/hcustodio/Projects/c#-arch/c-that-is-sharp/caesar-cipher/caesar-cipher/obj/Debug/net8.0/caesar-cipher.AssemblyInfo.cs
+/Users/hcustodio/Projects/c#-arch/c-that-is-sharp/caesar-cipher/caesar-cipher/obj/Debug/net8.0/caesar-cipher.csproj.CoreCompileInputs.cache
+/Users/hcustodio/Projects/c#-arch/c-that-is-sharp/caesar-cipher/caesar-cipher/obj/Debug/net8.0/caesar-cipher.sourcelink.json
+/Users/hcustodio/Projects/c#-arch/c-that-is-sharp/caesar-cipher/caesar-cipher/obj/Debug/net8.0/caesar-cipher.dll
+/Users/hcustodio/Projects/c#-arch/c-that-is-sharp/caesar-cipher/caesar-cipher/obj/Debug/net8.0/refint/caesar-cipher.dll
+/Users/hcustodio/Projects/c#-arch/c-that-is-sharp/caesar-cipher/caesar-cipher/obj/Debug/net8.0/caesar-cipher.pdb
+/Users/hcustodio/Projects/c#-arch/c-that-is-sharp/caesar-cipher/caesar-cipher/obj/Debug/net8.0/caesar-cipher.genruntimeconfig.cache
+/Users/hcustodio/Projects/c#-arch/c-that-is-sharp/caesar-cipher/caesar-cipher/obj/Debug/net8.0/ref/caesar-cipher.dll

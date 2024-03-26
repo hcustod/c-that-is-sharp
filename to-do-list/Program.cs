@@ -1,2 +1,13 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿namespace Todo
+
+public class TodoItem
+{
+    public string Title {get; set;}
+    public bool IsCompleted {get; set}
+    
+    public TodoItem(string title)
+    {
+        Title = title;
+        IsCompleted = false; 
+    }
+}
